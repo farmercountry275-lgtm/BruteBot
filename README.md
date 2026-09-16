@@ -128,3 +128,13 @@ python3 BruteBot.py -t https://demo.testfire.net/login.jsp -u admin -p passwords
   Buy me a coffee maybe?
   <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" style="width: 30px; height: 30px; vertical-align: middle;">
 </a>
+[92m
+[!] Script Author: Navin M. (GitHub handle: Navinscribed).
+
+[!] Description: BruteBot has been built upon Python 3.7 & uses 'webbot' (a library derived from Selenium).
+Lets you brute-force login passwords. Handy for login pages that have CSRF protection or any random tokens.
+
+[!] Disclaimer: Do not run this script on websites that you do not have explicit permissions to assess.
+It is considered to be illegal / unethical. I am not responsible for any misuse of this script whatsoever.
+=== === === === === === === === === === === === === === === === === === === === === === === === === === ===
+[00m
